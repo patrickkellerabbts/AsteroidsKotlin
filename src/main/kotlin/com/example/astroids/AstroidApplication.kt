@@ -18,7 +18,7 @@ class AstroidApplication : Application() {
     val asteroids = mutableListOf<Asteroid>()
     val maxAsteroid = 10
     var level = 1
-    val radiusClick = 30.0 // radius um den klickpunkt
+    val radiusClick = 20.0 // radius um den klickpunkt
     var clickCount = 0
     var hitCount = 0
     var mouseInside = true
