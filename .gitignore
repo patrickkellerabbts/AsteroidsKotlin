@@ -34,5 +34,19 @@ build/
 ### VS Code ###
 .vscode/
 
+### Build output ###
+out/
+
 ### Mac OS ###
 .DS_Store
+
+### AI/Agent coding ###
+.claude/
+.cursorrules
+.cursor/
+.aider*
+.codeium/
+.continue/
+.copilot/
+.github/copilot/
+.windsurf/
